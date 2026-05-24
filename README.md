@@ -27,10 +27,10 @@ The goal of this project is to simplify personal budgeting and provide users wit
 - JavaScript
 
 ### Backend
-- Java / Node.js *(replace with your actual backend)*
+- C++
 
 ### Database
-- MySQL / MongoDB *(replace with your actual database)*
+- MySQL 
 
 ---
 
